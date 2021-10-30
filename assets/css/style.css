@@ -1,0 +1,74 @@
+body { background-color: rgb(157, 167, 233)  } /*cor do fundo*/ 
+.corPrimaria{
+    background-color: white/*cor lado imagem*/
+}
+.corSecundaria{ /*com do navi bar/ barra do inicio*/
+    background-color: orangered;
+}
+p{
+    font-family:lato,'helvetica neue', Arial,Helvetica,sans-serif;
+    color: black !important; /*cor da letra*/
+}
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: bellow ;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+}
+.titulosVerdes{ 
+    text-decoration: underline;
+    text-underline-position: bellow ;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(87, 7, 7) ;
+}
+.textoBranco{ 
+    color: white !important;
+}
+.jumbotron{
+    margin-bottom:0px;
+}
+.textoFooter{ /*config do footer*/
+    margin:0px;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+input{
+    display: block;  
+    height: 55px;   
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px; 
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px;
+    background-color: rgba (255,255,255,0.01); /*fundo dos botão transparente*/
+    color: black; /*cor da letra dentro do botão */
+    outline: none;
+  }
+
+  div#corpo-form{ /*posição das barras*/ 
+    /*background-color: red;*/
+    width: 420px;
+    margin: 150px auto 0px auto; 
+  }
+  
+  a{
+    color: white;
+    text-decoration: nome;
+    text-align: center;
+    display: block;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+ 
+input[type=submit]{ 
+    background-color: rgb(7, 83, 255);/*cor da barra cadastrar */
+    border: none; 
+    cursor: pointer; 
+  }
