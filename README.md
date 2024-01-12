@@ -7,6 +7,19 @@ Este projeto é um sistema de CRUD (Create, Read, Update, Delete) desenvolvido c
 
 O projeto consiste em uma aplicação web que permite aos usuários realizar operações básicas de um CRUD, como adicionar, visualizar, editar e excluir dados. Esta aplicação é ideal para entender os conceitos fundamentais de desenvolvimento web com PHP e MySQL, além de práticas de frontend com HTML e CSS.
 
+## Autores
+
+- Geanderson Ferreira
+- Viviane Raquel
+- Alessandro Sousa
+- João Vilar
+
+## Agradecimentos
+
+- Professor José Marcones da Silva Lira - *Por fornecer orientação e suporte ao longo do projeto*
+- Colegas de Classe - *Por feedback e sugestões*
+- UNINASSAU Caruaru - *Por fornecer a oportunidade e os recursos para desenvolver este projeto*
+  
 ## Tecnologias Utilizadas
 
 - PHP
